@@ -1,0 +1,3 @@
+[submodule ".packages/gleam-mode"]
+	path = .packages/gleam-mode
+	url = https://github.com/gleam-lang/gleam-mode.git
